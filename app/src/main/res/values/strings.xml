@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="button_name">button_name</string>
+    <string name="city_name">city_heading</string>
+</resources>
